@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T10:28:23.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.50" etag="AT2kEDnHDiHfvHsJC4oz" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-15T10:31:16.016Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.50" etag="i1yYVFP_n0dPFnonztrG" version="16.5.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="592" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -325,6 +325,39 @@
             <mxPoint x="161.2499999999999" y="800" as="sourcePoint" />
             <mxPoint x="228.7499999999999" y="800" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Gf-kG_PAmu8BcNTFqrWe-15" value="회원" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gf-kG_PAmu8BcNTFqrWe-17" value="권한" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="150" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gf-kG_PAmu8BcNTFqrWe-18" value="주문" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="220" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gf-kG_PAmu8BcNTFqrWe-19" value="주문상세" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="290" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gf-kG_PAmu8BcNTFqrWe-20" value="장바구니" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="360" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gf-kG_PAmu8BcNTFqrWe-21" value="상품(강의)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="45" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gf-kG_PAmu8BcNTFqrWe-22" value="카테고리" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="500" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gf-kG_PAmu8BcNTFqrWe-23" value="상품 사진" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="45" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gf-kG_PAmu8BcNTFqrWe-24" value="리뷰 게시판" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="37.5" y="640" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gf-kG_PAmu8BcNTFqrWe-25" value="Q&amp;amp;A 게시판" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="37.5" y="710" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gf-kG_PAmu8BcNTFqrWe-26" value="공지 게시판" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="38.75" y="780" width="72.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
